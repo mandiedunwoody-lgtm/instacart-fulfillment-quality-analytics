@@ -1,1 +1,5 @@
+retailer_id,cancellation_rate,reschedule_rate,on_time_rate,escalation_rate,cancellation_rate_is_outlier,reschedule_rate_is_outlier,on_time_rate_is_outlier,escalation_rate_is_outlier
+R001,0.375,0.125,0.75,0.375,1,0,0,0
+R002,0.25,0.125,0.8,0.625,0,0,0,1
+R003,0.222,0.333,0.75,0.556,0,1,0,0
 
