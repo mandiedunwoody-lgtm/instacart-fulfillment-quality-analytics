@@ -1,1 +1,4 @@
+Retailer R001 shows a cancellation rate significantly above average.
+Retailer R002 has an elevated escalation rate, indicating potential operational issues.
+Retailer R003 shows a reschedule rate significantly above average.
 
