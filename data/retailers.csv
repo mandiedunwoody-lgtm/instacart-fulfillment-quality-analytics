@@ -1,1 +1,5 @@
+retailer_id,retailer_name,region,launch_date,tier
+R001,FreshMart,East,2025-06-01,strategic
+R002,GreenBasket,West,2024-11-15,core
+R003,UrbanGrocer,Central,2025-02-20,long_tail
 
