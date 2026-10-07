@@ -1,1 +1,5 @@
+retailer_id,total_orders,cancelled_orders,rescheduled_orders,completed_orders,on_time_orders,avg_order_value,cancellation_rate,reschedule_rate,on_time_rate,retailer_name,region,launch_date,tier,escalation_count,escalation_rate
+R001,8,3,1,4,3,54.86,0.375,0.125,0.75,FreshMart,East,2025-06-01,strategic,3,0.375
+R002,8,2,1,5,4,40.62,0.25,0.125,0.8,GreenBasket,West,2024-11-15,core,5,0.625
+R003,9,2,3,4,3,47.78,0.222,0.333,0.75,UrbanGrocer,Central,2025-02-20,long_tail,5,0.556
 
