@@ -1,5 +1,13 @@
 retailer_id,retailer_name,region,launch_date,tier
-R001,FreshMart,East,2025-06-01,strategic
+001,FreshMart,East,2025-06-01,strategic
 R002,GreenBasket,West,2024-11-15,core
 R003,UrbanGrocer,Central,2025-02-20,long_tail
+R004,RiverMarket,East,2024-09-10,strategic
+R005,MapleFoods,West,2025-01-25,core
+R006,CityPantry,Central,2024-03-18,long_tail
+R007,DailyHarvest,East,2025-04-05,strategic
+R008,NorthGrocer,West,2023-12-12,core
+R009,HomeBasket,Central,2024-07-22,long_tail
+R010,PurePantry,East,2025-02-01,strategic
+
 
