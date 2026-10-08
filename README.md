@@ -19,7 +19,11 @@ The goal is to demonstrate an end-to-end analytics workflow:
 
 ---
 
-![Instacart Fulfillment Quality Analytics](https://raw.githubusercontent.com/mandiedunwoody-lgtm/instacart-fulfillment-quality-analytics/main/assets/banner.png)
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Analytics-orange?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=for-the-badge)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Documentation-lightgrey?style=for-the-badge)
+
 
 ---
 ## Data Model
