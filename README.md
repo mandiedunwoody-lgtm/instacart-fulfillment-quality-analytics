@@ -28,6 +28,7 @@ The goal is to demonstrate an end-to-end analytics workflow:
 
 ## Project Structure
 
+<pre>
 ├── data/
 │   ├── orders.csv
 │   ├── retailers.csv
@@ -46,7 +47,7 @@ The goal is to demonstrate an end-to-end analytics workflow:
 │   └── banner.png
 │
 └── README.md
-
+</pre>
 
 
 ---
