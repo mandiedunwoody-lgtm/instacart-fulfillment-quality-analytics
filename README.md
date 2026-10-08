@@ -1,5 +1,10 @@
 # Instacart Fulfillment Quality & Retailer Performance Analytics
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Analytics-orange?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=for-the-badge)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Documentation-lightgrey?style=for-the-badge)
+
 ## Overview
 
 This project simulates the type of work done by a Data Analyst on Instacart's Platform Excellence Ops (PEO) Analytics team. It focuses on:
@@ -19,13 +24,6 @@ The goal is to demonstrate an end-to-end analytics workflow:
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Analytics-orange?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=for-the-badge)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Documentation-lightgrey?style=for-the-badge)
-
-
----
 ## Data Model
 
 ### 1. `orders.csv`
