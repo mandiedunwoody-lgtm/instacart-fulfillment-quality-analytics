@@ -18,6 +18,7 @@ The goal is to demonstrate an end-to-end analytics workflow:
 5. Insight generation and recommendations
 
 ---
+
 ![Instacart Fulfillment Quality Analytics](https://raw.githubusercontent.com/mandiedunwoody-lgtm/instacart-fulfillment-quality-analytics/main/assets/banner.png)
 
 ---
