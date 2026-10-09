@@ -105,7 +105,7 @@ These are implemented as DAX measures and used for KPI cards, conditional format
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Component      | Technology                          |
 |---------------|--------------------------------------|
@@ -143,3 +143,34 @@ instacart-fulfillment-quality-analytics/
 └-- README.md
 
 ```
+## 🔍 Insights Summary
+
+Based on Q1–Q3 2026 data:
+
+### **Critical Findings**
+
+1. **South Region On‑Time Delivery Gap**  
+   - Underperforms by **2.3 percentage points** vs. the network average  
+   - Driven by last‑mile logistics gaps in suburban delivery zones  
+   - Impacts approximately **22%** of total order volume  
+
+2. **Specialty Category Substitution Spike**  
+   - Substitution rate increased **+4.1% QoQ**  
+   - Correlates with SKU availability issues from three key suppliers  
+   - Customer NPS impact: **−8 points**  
+
+3. **Anomaly Frequency Trend**  
+   - Statistically significant increasing trend (p < 0.05)  
+   - **+23% month‑over‑month** increase in September–October 2026  
+   - UCL breached in the last two months  
+
+---
+
+### **Strategic Recommendations**
+
+| Priority | Recommendation                          | Expected Impact           | Timeline  |
+|----------|------------------------------------------|---------------------------|-----------|
+| **P1**   | Optimize South Region Routing            | +3.5% OTD rate            | Q4 2026   |
+| **P1**   | Supplier Diversification for Specialty   | −40% substitution rate    | Q4 2026   |
+| **P2**   | Anomaly Early Warning System (48‑hr)     | −60% response time        | Q1 2027   |
+| **P2**   | Retailer Performance Incentive Program   | +15% retailer compliance  | Q1 2027   |
