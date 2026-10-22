@@ -174,3 +174,41 @@ Based on Q1–Q3 2026 data:
 | **P1**   | Supplier Diversification for Specialty   | −40% substitution rate    | Q4 2026   |
 | **P2**   | Anomaly Early Warning System (48‑hr)     | −60% response time        | Q1 2027   |
 | **P2**   | Retailer Performance Incentive Program   | +15% retailer compliance  | Q1 2027   |
+
+
+
+## Instacart Fulfillment Quality Analytics Dashboard
+
+This Power BI dashboard evaluates fulfillment performance across regions, retailers, and categories.  
+It visualizes key KPIs, operational trends, and strategic recommendations derived from simulated marketplace data.
+
+
+---
+
+### 1️⃣ Fulfillment Quality Overview
+![Fulfillment Quality Overview](dashboard/page1_fulfillment_quality.png)
+
+### 2️⃣ Regional & Category Performance
+![Regional & Category Performance](dashboard/page2_regional_performance.png)
+
+### 3️⃣ Retailer Performance & Anomaly Analysis
+![Retailer Performance & Anomaly Analysis](dashboard/page3_retailer_performance.png)
+
+### 4️⃣ Retailer Leaderboard
+![Retailer Leaderboard](dashboard/page4_retailer_leaderboard.png)
+
+### 5️⃣ Key Findings & Strategic Recommendations
+![Key Findings & Strategic Recommendations](dashboard/page5_key_findings.png)
+
+### 6️⃣ Prioritized Action Log
+![Prioritized Action Log](dashboard/page6_action_log.png)
+
+
+### Dashboard Pages
+1. **Fulfillment Quality Overview** – KPI summary for delivery timeliness, accuracy, and substitution rates.  
+2. **Regional & Category Performance** – Compares fulfillment and accuracy across regions and categories.  
+3. **Retailer Performance & Anomaly Analysis** – Highlights retailer reliability and anomaly patterns.  
+4. **Retailer Leaderboard** – Ranks retailers by fulfillment, accuracy, and customer satisfaction.  
+5. **Key Findings & Strategic Recommendations** – Summarizes insights and actionable improvements.  
+6. **Prioritized Action Log** – Tracks implementation progress, ownership, and dependencies.
+
